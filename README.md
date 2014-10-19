@@ -1,4 +1,4 @@
-photo-campaign-app
+photo-campaign-web
 ==================
 
 <h2>Web application (MEAN)</h2>
